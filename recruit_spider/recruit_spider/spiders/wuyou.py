@@ -7,7 +7,7 @@
 #
 #
 # class MakeURL(object):
-# 
+#
 #     def __init__(self):
 #         self.domain = 'https://search.51job.com'
 #
@@ -98,4 +98,3 @@
 #             yield item
 #         except Exception as e:
 #             logging.debug(e)
-#
